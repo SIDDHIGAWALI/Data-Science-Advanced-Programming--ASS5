@@ -1,0 +1,13 @@
+numpy
+pandas>=2.0
+scikit-learn>=1.3
+joblib
+matplotlib
+flask>=3.0
+streamlit>=1.50
+plotly>=5.20
+python-pptx
+pytest
+requests
+# Only needed to deploy to IBM Watson Machine Learning:
+# ibm-watsonx-ai
